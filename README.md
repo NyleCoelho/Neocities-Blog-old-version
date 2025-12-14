@@ -1,8 +1,8 @@
 # Neocities Blog — Old Version
+> An old snapshot of a personal web experiment, built for Neocities.
 
 ![banner](banner/indieblog.png)
 
-> An old snapshot of a personal web experiment, built for Neocities.
 
 ---
 
