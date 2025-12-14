@@ -1,5 +1,7 @@
 # Neocities Blog — Old Version
 
+![texto alternativo](caminho/da/imagem.png)
+
 This repository contains an old version of my personal blog originally created for Neocities.
 
 ⚠️ **Important note before anything else**  
