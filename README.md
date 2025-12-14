@@ -2,50 +2,71 @@
 
 ![banner](banner/indieblog.png)
 
-This repository contains an old version of my personal blog originally created for Neocities.
+> An old snapshot of a personal web experiment, built for Neocities.
 
-⚠️ **Important note before anything else**  
+---
 
-This is **not a complete or fully functional website**. Some planned features were never developed, and in this version **none of the secondary pages were implemented**. What exists here is mainly the structure and the visual concept of the homepage.
+## ⚠️ Read This First
 
-## About the Project
+This is **not a complete or fully functional website**.
 
-The focus of this project is **visual identity**, not functionality.
+Some planned features were never developed and, in this version, **none of the secondary pages were implemented**. What you’ll find here is mostly the **structure and visual concept of the homepage**.
 
-The HTML, CSS, and JavaScript included here are incomplete on purpose. The goal was to experiment with layout, aesthetics, and atmosphere rather than building a production-ready website. Think of this as a visual prototype or a design playground rather than a finished product.
+If you’re looking for a finished product, this isn’t it.
 
-As with many Neocities projects, I deliberately leaned into **early 2000s web aesthetics** — personal, imperfect, expressive, and slightly chaotic. This includes decorative elements, playful layouts, and a stronger sense of personality over modern UX conventions.
+---
 
-(￣▽￣)ノ
+## ✦ About the Project
 
-## Assets & Credits
+This project prioritizes **visual identity over functionality**.
 
-Most visual assets (images, gifs, icons, etc.) are **hidden or not included in this repository**.
+The HTML, CSS, and JavaScript are intentionally incomplete. The goal was to explore layout, mood, and atmosphere — not to build something production-ready. Treat this as a **visual prototype** or an aesthetic experiment rather than a full website.
 
-The reason is simple:  
-many of them are **not my original work**, and I do not feel comfortable redistributing third-party assets as if they were mine. Only a few assets were created by me.
+Like many Neocities sites, this project embraces:
+- Personality over polish  
+- Expression over optimization  
+- Style over strict UX rules  
 
-If you plan to reuse this template, you will need to **replace the assets with your own** or properly source them.
+Early 2000s web aesthetics were a conscious choice: imperfect, decorative, expressive, and a little chaotic by nature. (￣▽￣)ノ
 
-## Usage
+---
+
+## ✦ Assets & Credits
+
+Most visual assets (images, gifs, icons, etc.) are **hidden or not included** in this repository.
+
+Why?
+- Many assets are **not my original work**
+- I don’t feel comfortable redistributing third-party material as if it were mine
+
+Only a small portion of the assets were created by me.  
+If you reuse this project, you **must replace the assets** with your own or properly sourced ones.
+
+---
+
+## ✦ Usage & License (Informal)
 
 You are free to:
 - Use this project as a **template**
 - Use it as **inspiration**
 - Modify it for your own Neocities or personal website
 
-Please note:
+Keep in mind:
 - The code is incomplete
-- You will need to finish or adapt functionality on your own
-- This project prioritizes aesthetics over structure or scalability
+- You’ll need to finish or adapt features yourself
+- This project values aesthetics over scalability or clean architecture
 
-If you decide to use or adapt this work, **please provide proper credit whenever possible**. It’s appreciated and helps respect the original intent of the project. (´･ω･`)
+If you use or adapt this work, **please provide proper credit whenever possible**.  
+It’s not mandatory, but it’s appreciated. (´･ω･`)
 
-## Final Notes
+---
 
-This project exists as a snapshot of a moment — a version of my creative process that no longer fully represents who I am today, but still matters as a reference and learning experience.
+## ✦ Final Notes
 
-Use it freely, but use it consciously.  
-That’s all.
+This repository is a **time capsule** — a version of my creative process that no longer fully represents who I am, but still matters as a reference and learning experience.
+
+Use it freely.  
+Just be mindful of its context.
 
 (._.)
+
