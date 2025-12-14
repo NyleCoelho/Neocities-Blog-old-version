@@ -5,6 +5,7 @@
 This repository contains an old version of my personal blog originally created for Neocities.
 
 ⚠️ **Important note before anything else**  
+
 This is **not a complete or fully functional website**. Some planned features were never developed, and in this version **none of the secondary pages were implemented**. What exists here is mainly the structure and the visual concept of the homepage.
 
 ## About the Project
