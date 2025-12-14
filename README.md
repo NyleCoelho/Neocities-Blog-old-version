@@ -1,6 +1,6 @@
 # Neocities Blog — Old Version
 
-![texto alternativo](caminho/da/imagem.png)
+![banner](banner/indieblog.png)
 
 This repository contains an old version of my personal blog originally created for Neocities.
 
