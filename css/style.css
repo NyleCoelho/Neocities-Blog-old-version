@@ -1462,67 +1462,61 @@ main section.center {
    RESPONSIVENESS (Aprimorado)
 ========================= */
 
-/* Dispositivos maiores que 1024px (Mantenha o grid) */
+
 @media (min-width: 1025px) {
-  /* Garante que o layout original de 3 colunas seja mantido para desktops */
   main {
-    padding: 40px 130px; /* Padding original para telas grandes */
+    padding: 40px 130px; 
     grid-template-columns: 1fr 2fr 1fr;
   }
 }
 
-/* Tablets e Dispositivos Maiores que 768px (Ajustes para layout de 3 colunas em telas médias) */
 @media (max-width: 1200px) {
   main {
-    padding: 30px 50px; /* Reduz o padding lateral */
+    padding: 30px 50px; 
     gap: 15px;
   }
 }
 
-/* Celulares grandes e Tablets em modo paisagem (Layout de coluna única mais estreito) */
 @media (max-width: 768px) {
-  /* HEADER */
+ 
   header { height: auto; }
   .titulo { 
-    font-size: 10px; /* Reduz ligeiramente para 768px */
-    padding-top: 20px; /* Reduz o padding superior */
+    font-size: 10px; 
+    padding-top: 20px; 
     padding-bottom: 20px;
   }
 
-  /* MAIN LAYOUT: Coluna única, remove o grid e força empilhamento */
   main { 
     display: flex; 
-    flex-direction: column; /* Empilha todas as seções */
-    padding: 20px; /* Reduz o padding geral */
+    flex-direction: column; 
+    padding: 20px; 
     gap: 20px;
-    align-items: center; /* Centraliza as seções */
+    align-items: center; 
   }
 
   main section.lado,
   main section.center {
-    flex: 1 1 100%; /* Ocupa 100% da largura disponível */
+    flex: 1 1 100%; 
     width: 100%;
     min-width: 0;
   }
 
-  /* WINDOW COMPONENTS */
   .janela { 
-    margin-bottom: 0px; /* O espaçamento será dado pelo 'gap' do main */
+    margin-bottom: 0px; 
     width: 100%;
   }
 
   .window_title { font-size: 12px; }
 
-  /* SOBRE MIM */
   .sobre-mim { 
     flex-direction: column; 
     text-align: center; 
     gap: 20px; 
-    padding: 20px; /* Reduz o padding interno */
+    padding: 20px; 
   }
   .persona {
-    width: 100%; /* Ocupa a largura total para não ficar muito pequeno */
-    max-width: 200px; /* Define um tamanho máximo */
+    width: 100%; 
+    max-width: 200px; 
   }
   .sobre-mim-texto { 
     align-items: center; 
@@ -1540,7 +1534,7 @@ main section.center {
     padding: 15px; 
   }
   .profile-avatar { 
-    max-width: 100%; /* Torna o avatar maior */
+    max-width: 100%;
     margin-bottom: 15px; 
   }
   .profile-info { 
@@ -1550,34 +1544,33 @@ main section.center {
   }
   .profile-section { 
     width: 100%;
-    text-align: left; /* Mantém o texto dentro da seção alinhado à esquerda para leitura */
+    text-align: left;
   }
 
-  /* GUESTBOOK (Janela .janela-content) */
+
   .guestbook-content {
       flex-direction: column;
       gap: 20px;
-      /* Remove o guestbook-image-area se houver (não presente neste CSS) */
   }
+   
   .guestbook-form-area {
-      min-width: 100%; /* Ocupa 100% da largura */
+      min-width: 100%; 
       padding-left: 0;
   }
   .guestbook-list-area {
-      height: 300px; /* Altura fixa menor */
+      height: 300px; 
       width: 100%;
   }
-
-  /* BLOG WINDOW */
+   
   .blog-window {
     flex-direction: column;
     padding: 15px;
   }
   .blog-image {
     width: 100%;
-    max-width: 200px; /* Limita o tamanho máximo da imagem */
+    max-width: 200px; 
     height: auto;
-    order: -1; /* Coloca a imagem acima do texto */
+    order: -1; 
   }
   .blog-title {
     font-size: 24px;
